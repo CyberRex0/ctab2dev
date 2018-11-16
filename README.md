@@ -1,5 +1,6 @@
 # Challange Pad 2 Development Kit
 
-# How to use
+# Repository Contents
 
-For example, ADB Driver, APK Decomiles..etc
+- ADB Driver for Challange Pad 2
+- APK Decompile Tools (dex2jar, oat2dex, jad)
